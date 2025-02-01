@@ -1,0 +1,2 @@
+# aisoc
+Legal AI assistant
